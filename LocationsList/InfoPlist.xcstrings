@@ -1,0 +1,35 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "LocationsList"
+          }
+        }
+      }
+    },
+    "NSLocationWhenInUseUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We use your location to add your current place to the list."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "We gebruiken je locatie om je huidige plaats aan de lijst toe te voegen."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
