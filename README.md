@@ -24,13 +24,6 @@ Use this [Fork](https://github.com/allar5430/wikipedia-ios) with deeplink-naviga
 ## Example of work
 https://github.com/user-attachments/assets/1b5968f0-5c04-44a3-ad1e-1a7c56a3cba6
 
-## Dark mode
-<img width="589" height="1280" alt="photo_2026-10-11 11 50 38" src="https://github.com/user-attachments/assets/e7c7bbec-f03d-4b5a-918d-72ce9d04e75c" />
-<img width="589" height="1280" alt="photo_2026-10-11 11 50 41" src="https://github.com/user-attachments/assets/8140b64d-556f-4418-8f0c-c9c2e4589d25" />
-
-## Large text
-<img width="589" height="1280" alt="photo_2026-10-11 11 52 06" src="https://github.com/user-attachments/assets/647c5147-bc2f-4194-bd9c-1c65e4ff75bb" />
-
 ## Get Locations List UX
 ```mermaid
 sequenceDiagram
@@ -157,3 +150,10 @@ sequenceDiagram
         List-->>User: Presents a fresh Add custom location sheet
     end
 ```
+
+## Dark mode
+<img width="250" src="https://github.com/user-attachments/assets/e7c7bbec-f03d-4b5a-918d-72ce9d04e75c" />
+<img width="250" src="https://github.com/user-attachments/assets/8140b64d-556f-4418-8f0c-c9c2e4589d25" />
+
+## Large text
+<img width="250" src="https://github.com/user-attachments/assets/647c5147-bc2f-4194-bd9c-1c65e4ff75bb" />
