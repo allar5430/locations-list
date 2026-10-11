@@ -1,15 +1,25 @@
 # LocationsList App 📍🌍
-This application shows locations list which come from custom endpoint. If not full data come, use apple reverse geocoding to receive city name based on coordinates. App has ability to add custom location with 2 different scenarios: 1. based on name call apple geocoding api to receive coordinates 2. based on current user location resolve coordinates. Once user tap on location - wikipedia app opens on Places tab and show corresponding location.
+    This application shows locations list which come from custom endpoint. If name not come for specific city, application uses apple reverse geocoding to receive it based on coordinates.
+    App has ability to add custom location with 2 different scenarios: 
+1. based on city name - call apple geocoding api to receive coordinates 
+2. based on current user location - resolve coordinates with CLLocationManager.
+
+Once user tap on location - wikipedia app opens on Places tab and show corresponding location.
+
+# Wikipedia app
+Use this [Fork](https://github.com/allar5430/wikipedia-ios) with deeplink-navigation branch
 
 ## Application stack
-Swift 6
-SwiftUI
-Swift Concurrency
-MVVM + Router
-XCTest
-Accessibility: Dynamic Text Size and VoiceOver
-CoreLocation for geocoding
-os for logging
+- Swift 6
+- SwiftUI
+- Swift Concurrency
+- MVVM + Router
+- XCTest
+- Accessibility
+    - Dynamic Text Size
+    - VoiceOver
+- CoreLocation for geocoding
+- os for logging
 
 ## Example of work
 https://github.com/user-attachments/assets/1b5968f0-5c04-44a3-ad1e-1a7c56a3cba6
